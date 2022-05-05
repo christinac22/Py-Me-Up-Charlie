@@ -4,21 +4,8 @@
 
 ![Revenue](Images/revenue-per-lead.png)
 
-* In this challenge, you are tasked with creating a Python script for analyzing the financial records of your company. You will give a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`. (Thankfully, your company has rather lax standards for accounting so the records are simple.)
-
-* Your task is to create a Python script that analyzes the records to calculate each of the following:
-
-  * The total number of months included in the dataset
-
-  * The net total amount of "Profit/Losses" over the entire period
-
-  * Calculate the changes in "Profit/Losses" over the entire period, then find the average of those changes
-
-  * The greatest increase in profits (date and amount) over the entire period
-
-  * The greatest decrease in profits (date and amount) over the entire period
-
-* As an example, your analysis should look similar to the one below:
+### Overview of Project
+Bob, an employee for the Serenity Falls Credit Union, has requested my assistance in completing a financial data audit. I have been tasked with reporting the total number of months included in the data set, net total amount of "Profit/Losses" over the entire period, the average changes in "Profit/Losses" over the entire period, and the greatest increase/decrease in profits. 
 
   ```text
   Financial Analysis
@@ -26,41 +13,29 @@
   Total Months: 86
   Total: $38382578
   Average  Change: $-2315.12
-  Greatest Increase in Profits: Feb-2012 ($1926159)
-  Greatest Decrease in Profits: Sep-2013 ($-2196167)
+  Greatest Increase in Profits: $1926159
+  Greatest Decrease in Profits: $-2196167
   ```
 
-* In addition, your final script should both print the analysis to the terminal and export a text file with the results.
+
 
 ## Challenge 2: PyPoll
 
 ![Vote Counting](Images/Vote_counting.png)
 
-* In this challenge, you are tasked with helping a small, rural town modernize its vote counting process.
+### Overview of Project
 
-* You will be give a set of poll data called [election_data.csv](PyPoll/Resources/election_data.csv). The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. Your task is to create a Python script that analyzes the votes and calculates each of the following:
-
-  * The total number of votes cast
-
-  * A complete list of candidates who received votes
-
-  * The percentage of votes each candidate won
-
-  * The total number of votes each candidate won
-
-  * The winner of the election based on popular vote.
-
-* As an example, your analysis should look similar to the one below:
+Maddie, an employee for the Serenity Falls Board of Elections, has requested my assistance in conducting a post-election audit. I have been tasked with reporting the total number of votes cast, the total number and percentage of votes cast for each candidate, and the winner of the election based on the popular vote. 
 
   ```text
   Election Results
   -------------------------
   Total Votes: 3521001
   -------------------------
-  Khan: 63.000% (2218231)
-  Correy: 20.000% (704200)
-  Li: 14.000% (492940)
-  O'Tooley: 3.000% (105630)
+  Khan: 63.0% (2218231)
+  Correy: 20.0% (704200)
+  Li: 14.0% (492940)
+  O'Tooley: 3.0% (105630)
   -------------------------
   Winner: Khan
   -------------------------
