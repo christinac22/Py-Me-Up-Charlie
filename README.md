@@ -1,6 +1,6 @@
 # Py Me Up, Charlie
 
-## PyBank
+## Challenge 1: PyBank
 
 ![Revenue](Images/revenue-per-lead.png)
 
@@ -32,7 +32,7 @@
 
 * In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
-## PyPoll
+## Challenge 2: PyPoll
 
 ![Vote Counting](Images/Vote_counting.png)
 
