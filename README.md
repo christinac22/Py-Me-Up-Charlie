@@ -7,6 +7,8 @@
 ### Overview of Project
 Bob, an employee for the Serenity Falls Credit Union, has requested my assistance in completing a financial data audit. I have been tasked with reporting the total number of months included in the data set, net total amount of "Profit/Losses" over the entire period, the average changes in "Profit/Losses" over the entire period, and the greatest increase/decrease in profits. 
 
+### Results
+
   ```text
   Financial Analysis
   ----------------------------
@@ -26,6 +28,8 @@ Bob, an employee for the Serenity Falls Credit Union, has requested my assistanc
 ### Overview of Project
 
 Maddie, an employee for the Serenity Falls Board of Elections, has requested my assistance in conducting a post-election audit. I have been tasked with reporting the total number of votes cast, the total number and percentage of votes cast for each candidate, and the winner of the election based on the popular vote. 
+
+### Results
 
   ```text
   Election Results
